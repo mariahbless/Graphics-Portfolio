@@ -1,0 +1,55 @@
+ul li a{
+    text-decoration: none;
+    padding: 3px;
+    font-style: italic;
+    font-weight: bold;
+    color:antiquewhite;
+    text-align: left;
+
+    position: sticky;
+    border: 2px solid blue;
+    background-color: lightskyblue;
+    color: blue;
+    top: 0px;
+    text-shadow:1px 1px wheat;
+
+
+}
+
+ul{
+    float: left;
+    display:flex;
+    justify-content: center;
+    align-items: left;
+}
+ul li{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 1Opx;
+    font-size: 17px;
+
+}
+body{
+    background-image: url(../pics/bal\ bk2.webp);
+    background-size: cover;
+}
+li{
+
+    font-weight: bold;
+    color: burlywood;
+}
+p{
+    text-align: left;
+}
+h6{
+    font-size: larger;
+    font-weight: bolder;
+    color:darkslateblue;
+    text-shadow: 1px 1px lightpink;
+    font-weight: bolder;
+}
+p{
+    color: blue;
+    font-weight: bolder;
+    
+}

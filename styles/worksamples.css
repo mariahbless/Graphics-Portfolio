@@ -1,0 +1,21 @@
+body{
+    background-color: lightgreen;
+    background-size: cover;
+}
+
+.images{
+   float: left; 
+   display: block;
+   padding: 20px;
+   border-radius: 20px;
+   margin: 20px;
+}
+h1{
+    position: sticky;
+    border: 5px solid palevioletred;
+    background-color: lightpink;
+    color: blue;
+    top: 0px;
+    text-shadow:1px 1px cornsilk
+
+}

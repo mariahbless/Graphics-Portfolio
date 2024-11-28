@@ -1,0 +1,22 @@
+li{
+    float: left;
+    display: block;
+}
+.forms{
+    width: 300px;
+    background-color: aqua;
+    height: 350px;
+    margin: 15px;
+    border-radius: 20px;
+    padding: 20px 20px;
+
+
+}
+body{
+    background: url(../pics/purpl\ bk4.jpg);
+    background-size: cover;
+}
+
+
+
+

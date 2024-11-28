@@ -1,0 +1,52 @@
+body{
+    background-image: url(../pics/purpl\ bk4.jpg);
+    background-size:cover;
+}
+
+form input,form textarea{
+    width: 50%;
+    border: 0px;
+    outline: none;
+    background:lightblue;
+    padding: 5px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 20px;
+    position: relative;
+}
+.contact.form{
+align-items: center;
+
+}
+h1{
+    position: sticky;
+    border: 3px solid blue;
+    background-color: lightskyblue;
+    color: blue;
+    top: 0px;
+    text-shadow:1px 1px wheat;
+}
+li{
+    text-align: left;
+    color:cornsilk;
+}
+p{
+    text-align: left;
+    color:black;
+}
+h2{
+    text-align: left;
+    text-shadow: 1px 1px lime;
+
+}
+h3{
+    color: cornsilk;
+}
+h4{
+    color: black;
+    text-shadow: 1px 1px lime;
+    font-size: x-large;
+    font-weight: bolder;
+
+}

@@ -1,0 +1,23 @@
+body{
+    background-image: url(../pics/purpl\ bk4.jpg);
+    background-size: cover;
+}
+.fm{
+    width: 600px;
+    height: 200px;
+    background-color:darkseagreen;
+    height: 350px;
+    margin: 15px;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+
+li{
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
+h2{
+    color: brown;
+}
